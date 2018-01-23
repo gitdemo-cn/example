@@ -5,6 +5,8 @@ demonstrate the language, standard libraries, and tools.
 
 ## The examples
 
+## hihi ##
+
 ### [hello](hello/) ([godoc](//godoc.org/github.com/golang/example/hello)) and [stringutil](stringutil/) ([godoc](//godoc.org/github.com/golang/example/stringutil))
 
     go get github.com/golang/example/hello
